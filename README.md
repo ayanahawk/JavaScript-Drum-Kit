@@ -1,1 +1,1 @@
-A fun project with sound
+A fun project with sound using HTML/CSS/JavaScript
